@@ -1,0 +1,1 @@
+This folder contains the code block for my analysis of QBTS and Nasdaq 100 please review code block and help me write a recommendation based on the analysis
